@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Ahok Word Embedding",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/meta.tsv"
+    }
+  ]
+}
