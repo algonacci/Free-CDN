@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Ahok Word Embedding",
+      "tensorName": "Revolusi Lokal Word Embedding",
       "tensorShape": [
         1000,
         50
